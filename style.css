@@ -198,7 +198,7 @@ img.meatProcess {
 }
 
 
-.love-meat a {
+nav a {
 	color:  white;
 	text-decoration:  none;
 }
@@ -304,5 +304,37 @@ p.fourthChart {
 	color:  #212121;
 }
 
+div.img-container {
+	width:  80%;
+	margin:  0 auto 250px auto;
+	text-align: center;
+	color:  white;
+}
+
+.img-container h3 {
+	margin:  10px 0;
+}
+
+.img-container img {
+	display: block;
+	margin:  30px auto;
+	width:  45%;
+	box-shadow: 5px 10px 30px #000000;
+	vertical-align: top;
+}
+
+.footer {
+	padding:  35px 0;
+	border-top:  2px solid #404040;
+	text-align: left;
+
+}
+
+.footer p {
+	font-size:  14px;
+	line-height:  2;
+	font-style:  normal;
+	color:  #404040;
+}
 
 
